@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>用Hexo创建博客</title>
+    <link href="/2024/12/06/%E7%94%A8Hexo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2024/12/06/%E7%94%A8Hexo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="使用Hexo创建博客"><a href="#使用Hexo创建博客" class="headerlink" title="使用Hexo创建博客"></a>使用Hexo创建博客</h1><h2 id="1-安装node和npm"><a href="#1-安装node和npm" class="headerlink" title="1.安装node和npm"></a>1.安装node和npm</h2><h3 id="（1）访问官网"><a href="#（1）访问官网" class="headerlink" title="（1）访问官网"></a>（1）访问官网</h3><p>访问node.js官网<a href="https://nodejs.org/zh-cn">Node.js — 在任何地方运行 JavaScript</a></p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206181457973.png" alt="image-20241206181457973"></p><p>点击「下载」</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206181854506.png" alt="image-20241206181854506"></p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206181929524.png" alt="image-20241206181929524"></p><p>点击「预构建安装程序」</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206182104713.png" alt="image-20241206182104713"></p><p>点击「下载Node.js v22.12.0」</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206182157568.png" alt="image-20241206182157568"></p><p>打开文件</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206182237300.png" alt="image-20241206182237300"></p><p>点击「Next」</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206182257245.png" alt="image-20241206182257245"></p><p>点击「I accept the terms in the License Agreement」，点击「Next」</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206182356657.png" alt="image-20241206182356657"></p><p>根据需要改变安装地址，等待安装完成。</p><p>按住「Win」键，然后按「r」键，输入「cmd」</p><p><img src="C:\Users\nice_\AppData\Roaming\Typora\typora-user-images\image-20241206182726623.png" alt="image-20241206182726623"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Web</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>关于vmware对个人用户免费的看法</title>
     <link href="/2024/11/23/%E5%85%B3%E4%BA%8Evmware%E5%AF%B9%E4%B8%AA%E4%BA%BA%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9%E7%9A%84%E7%9C%8B%E6%B3%95/"/>
     <url>/2024/11/23/%E5%85%B3%E4%BA%8Evmware%E5%AF%B9%E4%B8%AA%E4%BA%BA%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
